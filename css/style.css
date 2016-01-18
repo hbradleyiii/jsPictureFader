@@ -1,0 +1,14 @@
+body {
+  background-color: #2E2E33;
+  color: #FFF;
+}
+
+#jsPictureFader{
+ padding: 0px;
+}
+
+div#jsPictureFader img {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
